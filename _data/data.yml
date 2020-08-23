@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: marcos941216@gmail.com
     phone: 849 218 1994
-    website: marcosxdeveloper.github.io/portfolio-minimal
     linkedin: marcosxdeveloper
     github: marcosxdeveloper
 
@@ -59,7 +58,7 @@ experiences:
       details: |
         Entity dedicated to the development of cybersecurity, to strengthening the digital trust of the Dominican user and to the protection of the critical and technological infrastructure of the Dominican State.
         
-        Here are some roles that I had in this company:
+        Roles:
         
           - Create and update web sites and cybersecurity tools.
           - Publish web sites and tools to cloud servers.
@@ -71,7 +70,7 @@ experiences:
       details: |
         Team dedicated to the development of customized software and solutions aimed at achieving the strategic objectives of each client.
         
-        Here are some roles that I had in this company:
+        Roles:
         
           - Create and update web sites and mobile applications.
           - Publish web sites and applications to cloud servers.
@@ -83,7 +82,7 @@ experiences:
       details: |
         Independent Software Vendor (ISV) with a special focus on implementing mobile computing, RFID, Wireless, and Radio software using blockchain technology.
         
-        Here are some roles that I had in this company:
+        Roles:
         
           - Create and update web sites and decentralized applications.
           - Publish web sites and applications to cloud servers.
@@ -94,16 +93,16 @@ skills:
 
     toolset:
       - name: HTML & CSS
-        level: 90%
+        level: 80%
 
       - name: Javascript & Node.js
-        level: 90%
+        level: 80%
 
       - name: C# & ASP.NET
-        level: 100%
+        level: 90%
 
       - name: Java & Android
-        level: 100%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
