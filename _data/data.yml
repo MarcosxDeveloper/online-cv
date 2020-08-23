@@ -47,14 +47,14 @@ education:
       university: Technological Institute of Santo Domingo
       time: 2020 - Present
         
-    - degree: Associate's Degree in Software Engineering
+    - degree: Associate's Degree in Software Development
       university: Technological Institute of The Americas
       time: 2016 - 2019
 
 experiences:
     - role: Software Developer
       time: 2020 - Present
-      company: Informatik Solutions Group ISG, srl
+      company: National Cybersecurity Center
       details: |
         Entity dedicated to the development of cybersecurity, to strengthening the digital trust of the Dominican user and to the protection of the critical and technological infrastructure of the Dominican State.
         
@@ -99,10 +99,10 @@ skills:
         level: 90%
 
       - name: C# & ASP.NET
-        level: 70%
+        level: 100%
 
       - name: Java & Android
-        level: 70%
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
