@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marcos Gonzalez
-    tagline: .NET Developer
+    tagline: Full Stack Developer
     avatar: marcos.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,70 +25,83 @@ sidebar:
         level: intermediate
 
     interests:
-      - item: Game Programming
+      - item: Programming
         link:
         
-      - item: Game Design
+      - item: Data Science
+        link:
+      
+      - item: DevOps
+        link:
+        
+      - item: Design
         link:
         
 career-profile:
     title: Career Profile
     summary: |
-      Programmer with experience in Microsoft development technologies,
-      ability to work in a team using agile methodologies,
-      Knowledge in Backend development (ASP.NET/Node.JS) and Frontend development (Angular/Vue),
-      knowledge in database management system (SQL Server/MongoDB) and cloud services administration (Azure).
+      Software developer with experience in Microsoft development technologies, ability to work in a team using agile methodologies, knowledge in backend development, frontend development, database management system, cloud services and software integrations with crm system, issue tracking system, data dashboards, code scanner, signature pads, fingerprint readers, POS printers, etc.
 
 education:
-    - degree: Cisco Systems (CCNA)
-      university: Centro de Tecnología Universal
-      time: 2015 - 2015
+    - degree: Bachelor's Degree in Software Engineering
+      university: Technological Institute of Santo Domingo
+      time: 2020 - Present
         
-    - degree: Tecnólogo en Software
-      university: Instituto Tecnológico de Las Américas
-      time: 2016 - 2018
+    - degree: Associate's Degree in Software Engineering
+      university: Technological Institute of The Americas
+      time: 2016 - 2019
 
 experiences:
     - role: Software Developer
-      time: 2017 - Present
+      time: 2020 - Present
       company: Informatik Solutions Group ISG, srl
       details: |
-        here are some roles that I had in this company.
+        Entity dedicated to the development of cybersecurity, to strengthening the digital trust of the Dominican user and to the protection of the critical and technological infrastructure of the Dominican State.
         
-          - create and maintain web services (REST API)
-          - create and maintain web applications (SPA/PWA)
-          - publish services and web applications to the azure platform.
+        Here are some roles that I had in this company.
+        
+          - Create and update web sites and cybersecurity tools.
+          - Publish web sites and tools to cloud servers.
+          - Integrate tools with crm system, issue tracking system, data dashboards, etc.
           
-     
-publications:
-    title: Personale References
-    papers:
-      - title: David Peralta
-        authors: Software Developer, Informatik Solutions Group ISG, srl
-        conference: "+1 (809) 351-8819"
-
-      - title: Ian Alberto
-        authors: Software Developer, Informatik Solutions Group ISG, srl
-        conference: "+1 (849) 250-7970"
-
-      - title: Daniel Guerrero
-        authors: Project Manager, Informatik Solutions Group ISG, srl
-        conference: "+1 (829) 469-9983"
+     - role: Software Developer
+      time: 2019 - 2020
+      company: Wepsys
+      details: |
+        Team dedicated to the development of customized software and solutions aimed at achieving the strategic objectives of each client.
+        
+        Here are some roles that I had in this company:
+        
+          - Create and update web sites and mobile applications.
+          - Publish web sites and applications to cloud servers.
+          - Integrate applications with signature pads, fingerprints reader, POS printers, etc.
+          
+      - role: Software Developer
+      time: 2017 - 2019
+      company: Informatik Solutions Group
+      details: |
+        Independent Software Vendor (ISV) with a special focus on implementing mobile computing, RFID, Wireless, and Radio software using blockchain technology.
+        
+        Here are some roles that I had in this company:
+        
+          - Create and update web sites and decentralized applications.
+          - Publish web sites and applications to cloud servers.
+          - Integrate applications with code scanner, RFID readers, POS printers, etc.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & ASP.NET Core
+      - name: HTML & CSS
         level: 90%
 
-      - name: Azure & DevOps
+      - name: Javascript & Node.js
         level: 90%
 
-      - name: HTML5 & CSS3
+      - name: C# & ASP.NET
         level: 70%
 
-      - name: Javascript & Vue.Js
+      - name: Java & Android
         level: 70%
 
 footer: >
