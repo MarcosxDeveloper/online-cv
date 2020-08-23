@@ -14,6 +14,7 @@ sidebar:
     # Sidebar links
     email: marcos941216@gmail.com
     phone: 849 218 1994
+    website: marcosxdeveloper.github.io/portfolio-minimal
     linkedin: marcosxdeveloper
     github: marcosxdeveloper
 
@@ -57,6 +58,7 @@ experiences:
       company: National Cybersecurity Center
       details: |
         Entity dedicated to the development of cybersecurity, to strengthening the digital trust of the Dominican user and to the protection of the critical and technological infrastructure of the Dominican State.
+        
         Here are some roles that I had in this company:
         
           - Create and update web sites and cybersecurity tools.
@@ -68,6 +70,7 @@ experiences:
       company: Wepsys
       details: |
         Team dedicated to the development of customized software and solutions aimed at achieving the strategic objectives of each client.
+        
         Here are some roles that I had in this company:
         
           - Create and update web sites and mobile applications.
@@ -79,6 +82,7 @@ experiences:
       company: Informatik Solutions Group
       details: |
         Independent Software Vendor (ISV) with a special focus on implementing mobile computing, RFID, Wireless, and Radio software using blockchain technology.
+        
         Here are some roles that I had in this company:
         
           - Create and update web sites and decentralized applications.
